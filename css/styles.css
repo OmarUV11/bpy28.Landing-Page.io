@@ -178,6 +178,8 @@ header{
     text-align: center;
     align-items: center;
     padding-bottom: 3rem;
+    align-content: center;
+    justify-content: center;
 }
 
 .hot-sale__header{
