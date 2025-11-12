@@ -180,6 +180,7 @@ header{
     padding-bottom: 3rem;
     align-content: center;
     justify-content: center;
+    
 }
 
 .hot-sale__header{
@@ -219,8 +220,7 @@ header{
 .hot-sale__contenedor a{
     border: 1px black solid;
     border-radius: 1rem;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    
 }
 .hot__sale__productos{
     width: 30rem;
