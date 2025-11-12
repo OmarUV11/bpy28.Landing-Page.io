@@ -190,13 +190,13 @@ header{
 .hot-sale_titulo{
     text-align: center;
     align-content: center;
-    padding-bottom: 2rem;
-    padding-top: 2rem;
 }
 
 .hot-sale__icono{
     width: 10rem;
     height: 10rem;
+    max-width: 100%;
+    max-height: 100%;
 }
 
 .hot-sale__contenedor{
@@ -233,6 +233,8 @@ header{
 .hot__sale__productos__img{
     width: 20rem;
     height: 20rem;
+    max-width: 100%;
+    max-height: 100%;
 }
 
 /*Footer*/
